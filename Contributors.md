@@ -546,6 +546,7 @@ Harish Indla
 - [Jason Wang](https://github.com/jawang94)
 - [Sagar Patel](https://github.com/patelsv)
 - [Cole Smith](https://github.com/ColeGitHub)
+- [Vishwa Kalyanaraman](https://github.com/vishwakalyanaraman)
 - [Jhovahn Gibbs](https://github.com/jhovahn)
 - [Jennifer Williams](https://github.com/Taljjaa)
 - [James S. Lee](https://github.com/sanghawk)
